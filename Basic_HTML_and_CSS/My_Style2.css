@@ -1,9 +1,8 @@
-<style>
-	.My_Style2 {
+p {
 		background-color: black;
-		color: red;
+		color: teal;
 		text-decoration: underlined;
 		font-weight: bold;
 		font-size: large;
+		text-align: center;
 	}
-</style>

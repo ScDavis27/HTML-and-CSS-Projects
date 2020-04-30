@@ -1,0 +1,50 @@
+html {
+    background-color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: 24px;
+}
+
+.container {
+    width: 400px;
+    height: 550px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px dotted black;
+    border-radius: 2.5%;
+    padding: 5px;
+}
+
+.reservation form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding: 20px 20px;
+    width: 70%;
+    border: 1px solid #8D8D8D;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgba(72, 255, 0, 0.87);
+    box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.3);
+    font-family: 'Raleway', sans-serif;
+}
+
+.reservation input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 300;
+    color: rgb(236, 236, 233);
+    padding: 2% 1% 2% 7%;
+    width: 80%;
+    border-top: 2px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 2px solid #090B0D;
+    margin: 10px 1em;
+    border-radius: 10px;
+    background: #13161B;
+    box-shadow: inset 0px 3px 0px 0px rgba(5,5,5, 0.15);
+    font-family: 'Raleway', sans-serif;
+}
